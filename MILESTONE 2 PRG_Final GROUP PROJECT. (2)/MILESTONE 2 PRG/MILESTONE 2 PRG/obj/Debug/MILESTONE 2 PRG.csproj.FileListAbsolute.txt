@@ -1,0 +1,21 @@
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe.config
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.pdb
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.AssemblyReference.cache
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.CoreCompileInputs.cache
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.exe
+C:\Users\Letlhogonolo\source\repos\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.pdb
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.AssemblyReference.cache
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.CoreCompileInputs.cache
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.exe
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.pdb
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe.config
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe
+C:\Users\Boitshoko\Documents\PRG161\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.pdb
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe.config
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.exe
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\bin\Debug\MILESTONE 2 PRG.pdb
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.AssemblyReference.cache
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.csproj.CoreCompileInputs.cache
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.exe
+C:\Users\Letlhogonolo\Downloads\MILESTONE 2 PRG_Final GROUP PROJECT. (2)\MILESTONE 2 PRG\MILESTONE 2 PRG\obj\Debug\MILESTONE 2 PRG.pdb
